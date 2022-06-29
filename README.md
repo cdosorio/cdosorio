@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdosorio
 - 👀 I’m interested in web development, finance, blockchain, cryptos...
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Python
 
 - 📫 How to reach me : cdosorio@gmail.com
 
