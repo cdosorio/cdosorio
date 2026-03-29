@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdosorio
-- 👀 I’m interested in web development, finance, blockchain, cryptos...
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in web development, finance, Coding agents, ...
+- 🌱 I’m currently learning Github Copilot CLI
 
 - 📫 How to reach me : cdosorio@gmail.com
 
